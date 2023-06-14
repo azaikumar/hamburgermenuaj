@@ -1,0 +1,43 @@
+.button-hmenu {
+  border: none;
+  background-color: transparent;
+  outline: none;
+  cursor: pointer;
+}
+
+.popup-container {
+  background-color: #ffffff;
+  min-width: 100vw;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.home-route {
+  display: flex;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+.about-route {
+  display: flex;
+  align-items: center;
+}
+
+.icon {
+  margin-right: 10px;
+}
+
+.link {
+  outline: none;
+  text-decoration: none;
+  color: black;
+  font-family: 'Roboto';
+  font-weight: bold;
+}
+
+.trigger-button {
+  margin-left: 20%;
+}
